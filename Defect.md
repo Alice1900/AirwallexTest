@@ -34,7 +34,7 @@
   actual result : Length of account_number should be between 7 and 11 when bank_country_code is 'US'
   reason: error message of cu
    
-- Defect 5
+- Defect 4
    
    failed case: test_invalid_aba1
    
